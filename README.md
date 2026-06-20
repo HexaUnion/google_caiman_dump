@@ -1,0 +1,14 @@
+# generic_system_google-user 17 CP21.260330.011 15499021 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: caiman
+- flavor: generic_system_google-user
+- release: 17
+- id: CP21.260330.011
+- incremental: 15499021
+- tags: release-keys
+- fingerprint: google/caiman_beta/caiman:17/CP21.260330.011/15499021:user/release-keys
+- is_ab: true
+- brand: google
+- branch: generic_system_google-user-17-CP21.260330.011-15499021-release-keys
+- repo: google_caiman_dump

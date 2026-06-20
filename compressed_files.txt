@@ -1,0 +1,9 @@
+product/app/YouTube/YouTube.apk.xz
+product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+product/app/Photos/Photos.apk.xz
+product/app/Maps/Maps.apk.xz
+product/priv-app/PixelCameraServices/PixelCameraServices.apk.xz
+product/priv-app/DevicePersonalizationAiAiPrebuiltPixel2024/DevicePersonalizationAiAiPrebuiltPixel2024.apk.xz
+product/priv-app/Phonesky/Phonesky.apk.xz
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk.xz
+vendor/apex/com.google.pixel.camera.hal.apex.xz
